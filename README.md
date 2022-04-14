@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32" width="32"/>, I'm Oshri Nuri</h1>
 
 
-### <div align="left">I'm Oshri, a junior Java passionate developer 🤩</div>  
+### <div align="left">I'm Oshri, a Junior Java passionate developer 🤩</div>  
   
 
 - 🔭 I’m currently working on [FlightSystem](https://github.com/oshrinuri/FlightSystem)  
@@ -13,16 +13,21 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
 <div align="center">  
+  
+### Frontend  
+  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
-### Backend  
+  
+  
 <div align="center">  
+
+### Backend  
+  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -34,11 +39,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-</td></tr></table>  
-
+</table>
+    
 ## Connect with me  
+
 <div align="left">
 <a href="https://github.com/oshrinuri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
