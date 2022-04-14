@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Oshri Nuri</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32" width="32"/>, I'm Oshri Nuri</h1>
 <h3 align="left">A passionate Junior Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshrinuri&label=Profile%20views&color=0e75b6&style=flat" alt="oshrinuri" /> </p>
