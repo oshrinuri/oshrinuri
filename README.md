@@ -1,9 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32" width="32"/>, I'm Oshri Nuri</h1>
 
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
 
 ### <div align="left">I'm Oshri, a junior Java passionate developer 🤩</div>  
   
@@ -12,10 +8,6 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -29,9 +21,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -47,13 +36,7 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="left">
