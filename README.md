@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32" width="32"/>, I'm Oshri Nuri</h1>
 
-<div align="center">
+<div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
-### <div align="center">I'm Oshri, a junior Java passionate developer 🤩</div>  
+### <div align="left">I'm Oshri, a junior Java passionate developer 🤩</div>  
   
 
 - 🔭 I’m currently working on [FlightSystem](https://github.com/oshrinuri/FlightSystem)  
@@ -56,7 +56,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/oshrinuri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,7 +67,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=oshrinuri&&style=flat-square" align="center" />
 </div>  
   
