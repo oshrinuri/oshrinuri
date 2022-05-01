@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32" width="32"/>, I'm Oshri Nuri</h1>
 
 
-### <div align="left">I'm Oshri, a Junior Java passionate developer 🤩</div>  
+### <div align="left">I'm Oshri, a passionate Software Developer 🤩</div>  
   
 
 - 🔭 I’m currently working on [FlightSystem](https://github.com/oshrinuri/FlightSystem)  
