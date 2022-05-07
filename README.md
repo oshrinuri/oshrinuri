@@ -4,10 +4,14 @@
 ### <div align="left">I'm Oshri, a passionate Software Developer 🤩</div>  
   
 
-- 🔭 I’m currently working on [FlightSystem](https://github.com/oshrinuri/FlightSystem)  
+- 🔭 I’m currently working on [FlightSystem](https://github.com/oshrinuri/FlightSystem) (Java)
+
+
+- 😆 My last project was [Shiftly](https://github.com/shiftlyapp/Shiftly) (Android)
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
